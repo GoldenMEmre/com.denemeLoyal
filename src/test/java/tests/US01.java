@@ -14,5 +14,7 @@ public class US01 {
 
         Driver.quitDriver();
 
+        System.out.println("Merhaba");
     }
+
 }
